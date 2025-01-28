@@ -1,4 +1,4 @@
-##Automatización de Procesos de Facturación (iGlobal ERP)
+## Automatización de Procesos de Facturación (iGlobal ERP)
 
 - Diseñé e implementé un script en Python que automatizó la emisión de más de 250 documentos electrónicos en iGlobal ERP, un sistema sin API de integración. 
 - Incorporé características como personalización de rutas de guardado, manejo de errores, y monitoreo en tiempo real para detener el proceso según la necesidad del usuario.
